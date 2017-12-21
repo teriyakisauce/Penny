@@ -12,12 +12,8 @@
     <th>description</th>
   </tr>
   <tr>
-    <td>//nsfw</td>
+    <td>//waifu</td>
     <td>Wiggy's weird command for randomly selecting a waifu from the list of handpicked waifus he has chosen.</td>
-  </tr>
-  <tr>
-    <td>//nsfw waifu</td>
-    <td>Nsfw version of the waifu command.</td>
   </tr>
   <tr>
     <td>//slap</td>
