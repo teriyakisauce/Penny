@@ -15,6 +15,10 @@
     <td>//nsfw waifu</td>
     <td>Nsfw version of the waifu command.</td>
   </tr>
+  <tr>
+    <td>//nsfw waifu</td>
+    <td>Nsfw version of the waifu command.</td>
+  </tr>
   <tr>
     <td>//slap</td>
     <td>Slap people with as blake from RWBY.</td>
