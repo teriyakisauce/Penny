@@ -8,7 +8,7 @@
     
 <p style"font-size:50px;">Multi purpose bot for multiple purposes.</p>
 <a href="https://discord.gg/6JzRFyt"><img src="https://discordapp.com/api/guilds/309531752014151690/embed.png" alt="Discord server" /></a>
-<div align="right">
+<div align="left">
 <h2>Commands</h1>
 <p style"font-size:50px;">For a list of all of the commands and their full usage do //help or prefix + help</p>
 <p style"font-size:50px;">Help is divided in multiple sections:</p>
