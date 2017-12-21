@@ -6,7 +6,7 @@
   <br />
   <p>
     
-<p style"font-size:50px;">Multi purpose bot for multiple purposes.</p>
+<p style"font-size:50px;">Multi purpose bot developed by Lilwiggy, themed after the RWBY character Penny and consisting of 29 commands ranging from fun, to moderation and customizability.</p>
 <a href="https://discord.gg/6JzRFyt"><img src="https://discordapp.com/api/guilds/309531752014151690/embed.png" alt="Discord server" /></a>
 <div align="left">
 <h2>Commands</h1>
