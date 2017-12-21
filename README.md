@@ -72,4 +72,8 @@
     <td>//set welcome message [message]</td>
     <td>Set the welcome message.</td>
   </tr>
+    <tr>
+    <td>//set prefix [prefix]</td>
+    <td>Set the bot's prefix.</td>
+  </tr>
 </table>
