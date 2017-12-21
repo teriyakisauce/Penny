@@ -8,12 +8,12 @@
 
 <table>
   <tr>
-    <th>//waifu</th>
-    <th>Wiggy's weird command for randomly selecting a waifu from the list of handpicked waifus he has chosen.</th>
+    <th>command</th>
+    <th>description</th>
   </tr>
   <tr>
     <td>//nsfw waifu</td>
-    <td>Nsfw version of the waifu command.</td>
+    <td>Wiggy's weird command for randomly selecting a waifu from the list of handpicked waifus he has chosen.</td>
   </tr>
   <tr>
     <td>//nsfw waifu</td>
