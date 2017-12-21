@@ -1,6 +1,6 @@
 <h1> Penny </h1>
 <p style"font-size:50px;">Multi purpose bot for multiple purposes.</p>
-<a href="https://discord.gg/6JzRFyt"><img src="https://discordapp.com/api/guilds/222078108977594368/embed.png" alt="Discord server" /></a>
+<a href="https://discord.gg/6JzRFyt"><img src="https://discordapp.com/api/guilds/309531752014151690/embed.png" alt="Discord server" /></a>
 <img src = "https://cdn.discordapp.com/avatars/309531399789215744/bdc58b742039dde0323b69ecf93afb4a?size=512">
 <h2>Commands</h1>
 <p style"font-size:50px;">For a list of all of the commands and their full usage do //help or prefix + help</p>
