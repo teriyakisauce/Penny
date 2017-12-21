@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>//slap</td>
-    <td>Slap people with as blake from RWBY.</td>
+    <td>Slap people as blake from RWBY.</td>
   </tr>
   <tr>
     <td>//highfive</td>
@@ -37,6 +37,43 @@
   </tr>
   <tr>
     <td>//osu</td>
+    <td>Display an osu player's profile.</td>
+  </tr>
+</table>
+
+<h3>Mod</h3>
+
+<table>
+  <tr>
+    <th>command</th>
+    <th>description</th>
+  </tr>
+  <tr>
+    <td>//kick</td>
+    <td>Kicks the first mentioned user, useful if somebody is breaking the rules as a warning method.</td>
+  </tr>
+  <tr>
+    <td>//ban</td>
+    <td>Bans the first mentioned user, useful if someone insults your waifu.</td>
+  </tr>
+  <tr>
+    <td>//delete</td>
+    <td>Delete multiple messages, useful in cases of heavy spam.</td>
+  </tr>
+  <tr>
+    <td>//welcome</td>
+    <td>Give someone a high five!</td>
+  </tr>
+  <tr>
+    <td>//set welcome [channel] </td>
+    <td>Gamble away your hard earned credits!</td>
+  </tr>
+  <tr>
+    <td>//set leave [message] </td>
+    <td>Define stuff on the worlds best dictionary.</td>
+  </tr>
+  <tr>
+    <td>//set welcome [message]</td>
     <td>Display an osu player's profile.</td>
   </tr>
 </table>
