@@ -66,14 +66,14 @@
   </tr>
   <tr>
     <td>//set welcome [channel] </td>
-    <td>Gamble away your hard earned credits!</td>
+    <td>Set the welcome channel, more geared towards big servers.</td>
   </tr>
   <tr>
     <td>//set leave [message] </td>
-    <td>Define stuff on the worlds best dictionary.</td>
+    <td>Set fhe message for a user leaving the server.</td>
   </tr>
   <tr>
     <td>//set welcome [message]</td>
-    <td>Display an osu player's profile.</td>
+    <td>Set the welcome message.</td>
   </tr>
 </table>
