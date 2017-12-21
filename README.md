@@ -12,7 +12,7 @@
     <th>description</th>
   </tr>
   <tr>
-    <td>//nsfw waifu</td>
+    <td>//nsfw</td>
     <td>Wiggy's weird command for randomly selecting a waifu from the list of handpicked waifus he has chosen.</td>
   </tr>
   <tr>
