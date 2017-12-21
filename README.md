@@ -65,15 +65,15 @@
     <td>Enable or disable welcome messages.</td>
   </tr>
   <tr>
-    <td>//set welcome [channel] </td>
+    <td>//set welcome channel [channel] </td>
     <td>Set the welcome channel, more geared towards big servers.</td>
   </tr>
   <tr>
-    <td>//set leave [message] </td>
+    <td>//set leave message [message] </td>
     <td>Set fhe message for a user leaving the server.</td>
   </tr>
   <tr>
-    <td>//set welcome [message]</td>
+    <td>//set welcome message [message]</td>
     <td>Set the welcome message.</td>
   </tr>
 </table>
