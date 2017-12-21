@@ -149,7 +149,7 @@
   </tr>
   <tr>
     <td>//ht</td>
-    <td>Gamble without actually using credits,place a bet on either Heads or Tails and the bot rewards you 1 credit if you win.</td>
+    <td>Play heads or tails, you will recieve 1 whole credit for winning.</td>
   <tr>
     <td>//translate [language] | [text]</td>
     <td>Translates text using the google translate api.</td>
