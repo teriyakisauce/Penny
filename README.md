@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td>//welcome</td>
-    <td>Give someone a high five!</td>
+    <td>Enable or disable welcome messages.</td>
   </tr>
   <tr>
     <td>//set welcome [channel] </td>
