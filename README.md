@@ -1,3 +1,4 @@
+
 <div align="center">
   <br />
   <p>
@@ -7,7 +8,7 @@
   <p>
     
 <p style"font-size:50px;">Multi purpose bot developed by Lilwiggy, themed after the RWBY character Penny and consisting of 29 commands ranging from fun, to moderation and customizability.</p>
-<a href="https://discord.gg/6JzRFyt"><img src="https://discordapp.com/api/guilds/309531752014151690/embed.png" alt="Discord server" /></a>
+<a href="https://discord.gg/kwcd9dq"><img src="https://discordapp.com/api/guilds/309531752014151690/embed.png" alt="Discord server" /></a>
 <div align="left">
 <h2>Commands</h1>
 <p style"font-size:50px;">For a list of all of the commands and their full usage do //help or prefix + help</p>
@@ -168,3 +169,8 @@
   </tr>
   </tr>
 </table>
+<h1> Penny </h1>
+<p style"font-size:50px;">For fun times</p>
+<p style="font-size:80px;"> Hey join the server too!</p>
+<iframe src="https://discordapp.com/widget?id=309531752014151690&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
